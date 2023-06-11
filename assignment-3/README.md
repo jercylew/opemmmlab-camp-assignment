@@ -1,9 +1,9 @@
 # OpenMMLab Camp 2023-02
 
 ## Assignment 3
-- 水果测试验证集评估指标（RES50）
+- 气球测试验证集评估指标（RTMDet）
 
-![res50-fruits-eval.png](./res50-fruits-eval.png)
+![model_checkpoint_valuation.png](./model_checkpoint_valuation.png)
 
 ## Checkpoint file
 I share this file via google drive due to its large size and cannot be pushed to github.com

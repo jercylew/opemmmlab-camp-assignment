@@ -10,4 +10,16 @@ I share this file via google drive due to its large size and cannot be pushed to
 
  [best_coco_bbox_mAP_epoch_30.pth](https://drive.google.com/file/d/10qg_eDAACZ1Rfxv_8gLc_xwKCrzNrB6B/view?usp=sharing)
 
+## Test examples
+![balloon_test_infer.png](./balloon_test_infer.png)
+
+Backbone heatmap
+
+![backbone_heatmap.png](./backbone_heatmap.png)
+
+Neck heatmap
+
+![neck_heatmap.png](./neck_heatmap.png)
+
+
 

@@ -35,7 +35,7 @@ Room with pink walls, an blue ceiling.
 
 - Prompt
 
-Room with pink walls, an blue ceiling.
+Room with white walls, an orange ceiling and golden floor.
 
 - Output
 
